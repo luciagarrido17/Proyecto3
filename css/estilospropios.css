@@ -1,0 +1,56 @@
+
+.btn-primary {
+    background-color: #b3ceaef5 !important;
+    border-color: #b3ceaef5 !important;
+    color: #393a3a !important;
+    font-weight: bold;
+
+}
+
+
+#mainNav {
+    background-color: #b3ceaef5 !important; }
+
+.navbar-brand {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 40px !important;
+}
+
+.navbar-toggler{ 
+background-color: #b3ceaef5 !important; }
+
+#mainNav .navbar-toggler {
+ color: #677265 !important;
+  border: 1px solid #677265 !important; }
+
+  .masthead h1, .masthead .h1 {
+    letter-spacing: 2px !important;
+    font-size: 70px;
+}
+
+    .masthead h2, .masthead .h2 {
+        max-width: 30rem;
+        font-size: 1rem;
+        color: white;
+    }
+
+.about-section {
+    background: #f9f9f9 !important;
+}
+
+.projects-section .project-text hr {
+    border-color: #b3ceaef5 !important;;
+}
+
+.bg-black {
+    background-color: #677265 !important; }
+
+    .text-black-50 {
+        color: #393a3a !important;
+      }
+
+      .text-white-50 {
+        color: rgba(255, 255, 255, 1.0) !important;
+      }
+
+   
